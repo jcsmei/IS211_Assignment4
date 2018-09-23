@@ -157,6 +157,10 @@ def main():
             Python Sort took  0.0000549 seconds to run, on average.
             Shell Sort took  0.0030351 seconds to run, on average.
             Insertion Sort took  0.0601090 seconds to run, on average.
+            For a random list of 10000:
+            Python Sort took  0.0003076 seconds to run, on average.
+            Shell Sort took  0.0340817 seconds to run, on average.
+            Insertion Sort took  5.9072282 seconds to run, on average.
         """
     list_size = [500, 1000, 10000]
     sort_algo = {'Insertion': 0,
