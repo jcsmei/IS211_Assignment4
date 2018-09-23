@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""IS211 Assingment4 -  A simple search algorithm."""
+"""IS211 Assingment4 -  A simple search algorithm comparison."""
 
 import timeit
 import random
